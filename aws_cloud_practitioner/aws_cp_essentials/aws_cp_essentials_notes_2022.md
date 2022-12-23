@@ -56,7 +56,11 @@
   -
 
 - Notes:
-    - factors to consider while selecting region: 1_compliance, 2_proximity, 3_services_available, 4_pricing
+    - factors to consider while selecting region: 
+      1. compliance
+      2. proximity
+      3. services_available
+      4. pricing
 - Example:
     - client > package > internet > IG > NACL > VPC > SG > EC2
 - NACL
