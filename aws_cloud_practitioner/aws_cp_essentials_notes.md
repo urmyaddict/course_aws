@@ -1,13 +1,14 @@
-# MODULE 1
-# MODULE 2
-# MODULE 3
-# MODULE 4
-# MODULE 5 STORAGE
+
+## **MODULE 1**
+## **MODULE 2**
+## **MODULE 3**
+## **MODULE 4**
+## **MODULE 5 STORAGE**
 - S3
 - DynamoDB
 - Redshift
 
-# MODULE 6
+## **MODULE 6**
 - DoS and DDoS: Denial of Service and Distributed Denial of Service
 - AWS Shield: protection against DoS
 - Inspector: suggests
@@ -20,7 +21,7 @@
 - Q4. defend DoS: AWS Shield
 - Q5. describe AWS KMS: create cryptographic keys (manage and provide keys)
 
-# MODULE 7 Security
+## **MODULE 7 Security**
 - Amazon CloudWatch: monitor resources 
 - AWS CloudTrail: track activities,
 - AWS Trusted Advisor dashboard: receive recommendations and improve our environment
@@ -33,8 +34,8 @@
 - Q2. describe AWS Trusted Advisor: performance / fault tolerance
 - Q3. lowest cost with all aws trusted advisor checks: business. (basic/developer/business/enterprise)
 
-# MODULE 8
-# MODULE 9
+## **MODULE 8**
+## **MODULE 9**
 - AWS CAF Cloud Adoption Framework: 6 
   - business capabilities: (business, people, governance)
   - technical capabilities: (platform, security, operations)
